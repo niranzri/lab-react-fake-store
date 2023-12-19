@@ -1,7 +1,7 @@
 /* Typography */
 @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap');
 
-/* Tailwind directives */
+/* Tailwind directives  */
 @tailwind base;
 @tailwind components;
 @tailwind utilities;

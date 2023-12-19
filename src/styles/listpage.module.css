@@ -15,14 +15,22 @@
     margin: 10px;
     background-color: white;
     border-radius: 5px;
+    text-align: left;
 }
 
-.item1, .item2, .item3, .item4 {
+.item1, .item2 {
     flex: 1;
+    padding: 10px;
+}
+
+.item3, .item4 {
+    flex: 0.5;
+    padding: 10px;
 }
 
 .item5 {
     flex: 2;
+    padding: 10px;
 }
 
 .item1 {
